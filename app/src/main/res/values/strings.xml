@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Literasi</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_materi">Materi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcom</string>
+    <string name="nav_header_subtitle">Powered By Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_logout">Logout</string>
+</resources>
